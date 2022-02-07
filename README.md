@@ -29,11 +29,11 @@ This fourth table was created to help Pewlett-Hackard with their planning to get
 
 ## Summary
 
-Pewlett-Hackard's impact with the "silver tsunami" will be huge.  The figure below shows the proportion of retirees across different titles within their company.  The company will have the biggest challenge with finding replacements to fulfill the senior level positions.  Over 70% of the upcoming retirees have titles that fall within the 'Senior Engineer' and 'Senior Staff' level.  
+Pewlett-Hackard's impact with the "silver tsunami" will be huge.  The figure below shows the proportion of retirees across different titles within their company.  The company will have the biggest challenge with finding replacements to fulfill the senior level positions.  Over 70% of the upcoming retirees have titles that fall within the 'Senior Engineer' and 'Senior Staff' level.  The company should work to recruit individuals soon so that the process of mentoring can occur quickly as there is typically a long process of training with higher level positions/titles.  
 ![CD11741F-10CC-412F-A685-D5167203BC2E_4_5005_c](https://user-images.githubusercontent.com/96222437/152728817-177b5683-2bf0-4282-b689-8f39d53350b1.jpeg)
 
 
-Pewlett-Hackard has 1,549 available employees who fit the criteria for becomming mentors.  Further research is recommended to identify which department the employees fall within to help ensure that there are an adequate number of mentors in each area.  The mentors table is also limited to only those born in 1965 and there could be employees younger or older who have substantial knowledge to become mentors.  The further research should include other birth years.  
+Pewlett-Hackard has 1,549 available employees who fit the criteria for becoming mentors.  Further research is recommended to identify which department the employees fall within to help ensure that there are an adequate number of mentors in each area.  The mentors table is also limited to only those born in 1965 and there could be employees younger or older who have substantial knowledge to become mentors.  The further research should include other birth years.  
 In querying the mentors table further, it is evident that all 1.549 employees listed have been working at the company for at least more than 10 years so it would seem they are knowledgeable enough to train their replacements, shown below in figure 2.  
 
 ![78BBBAD7-C74A-43DF-82FF-6D0485E5E19D_4_5005_c](https://user-images.githubusercontent.com/96222437/152727750-8a8a9f2b-dda2-4931-9e60-0987509fe58c.jpeg)
